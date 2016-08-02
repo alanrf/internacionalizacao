@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internationalization</string>
+    <string name="btpt">Portuguese</string>
+    <string name="btes">Spanish</string>
+    <string name="bten">English</string>
+    <string name="mensagem">You are seeing the values for English language.</string>
+</resources>
